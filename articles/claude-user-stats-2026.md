@@ -3,7 +3,7 @@ title: "Claudeユーザー1890万人の実態 ── 構造化プロンプトを
 emoji: "📊"
 type: "idea"
 topics: ["claude", "AI", "プロンプト", "chatgpt"]
-published: true
+published: false
 ---
 
 あなたはClaudeに話しかけるとき、どんな言い方をしているだろうか。
