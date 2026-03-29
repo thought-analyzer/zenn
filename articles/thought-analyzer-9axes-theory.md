@@ -1,9 +1,9 @@
 ---
-title: "【第2回】thought-analyzerの9軸はなぜこれなのか ── 認知科学の実証研究から設計した思考パターン分析"
+title: "【第2回】思考パターン9軸の設計根拠 ── 認知科学の実証研究から"
 emoji: "🧠"
 type: "tech"
 topics: ["claude", "AI", "認知科学", "プロンプト", "claudecode"]
-published: false
+published: true
 ---
 
 :::message

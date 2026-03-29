@@ -1,9 +1,9 @@
 ---
-title: "【第3回】コーディング指示力の6軸はなぜこれなのか ── AI協働時代に求められる技術指示能力の設計"
+title: "【第3回】コーディング指示力6軸の設計根拠 ── AI協働時代の技術指示能力"
 emoji: "⚙️"
 type: "tech"
 topics: ["claude", "AI", "claudecode", "プロンプト", "認知科学"]
-published: false
+published: true
 ---
 
 :::message

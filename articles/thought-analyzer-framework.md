@@ -1,9 +1,9 @@
 ---
-title: "【第1回】AIで理想を実現する3層構造 ── 発想力・構想力・指示力はなぜ分けて考えるのか"
+title: "【第1回】AIで理想を実現する3層フレームワーク ── 発想力×構想力×指示力"
 emoji: "🧠"
-type: "idea"
+type: "tech"
 topics: ["AI", "claude", "claudecode", "思考", "認知科学"]
-published: false
+published: true
 ---
 
 :::message
