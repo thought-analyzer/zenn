@@ -1,0 +1,13 @@
+title: "thought-analyzer 実践編 ── 結果を読む・深める・活かす"
+summary: "思考パターン8類型・コーディング指示力7モードの深層解釈、holistic_profileの読み方、分析精度の上げ方、コンテキスト同期の問題まで。序説で仕様を把握した上で、分析結果を実際に活かしたい人向けの実践ガイド。"
+topics: ["AI", "claude", "認知科学", "claudecode"]
+published: false
+price: 0
+chapters:
+  - intro
+  - 8types-deep
+  - 7modes-deep
+  - holistic-profile
+  - analysis-quality
+  - context-sync
+  - tracking-change
