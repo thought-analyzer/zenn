@@ -3,8 +3,10 @@ title: 「自分の言葉で書く」は本当に資産になるのか ── Ob
 emoji: 📝
 type: idea
 topics: [claude, ai, obsidian, thoughtanalyzer, pkm]
-published: false
+published: true
 ---
+
+**Obsidian**とは、マークダウン形式でノートを書き、ノート同士をリンクでつなぐことができるローカルファースのメモアプリだ。データはすべて自分のPCに保存され、ノート間のつながりをグラフで可視化できる。PKM（Personal Knowledge Management）ツールとして、エンジニアや研究者を中心に広く使われている。
 
 先日、こんな主張を読んだ。
 
