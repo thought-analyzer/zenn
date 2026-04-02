@@ -1,5 +1,5 @@
 ---
-title: 【仮】自律型AIで成果が出る人の思考パターンは何が違うのか
+title: 自律型AIでは、指示力はどれほど関係あるのか
 emoji: 🧠
 type: idea
 topics: [claude, ai, agenticai, llm, thoughtanalyzer]
