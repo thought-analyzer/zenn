@@ -1,5 +1,5 @@
 ---
-title: 自律型AIでは、指示力はどれほど関係あるのか
+title: 自律型AIでは、あなたの思考がどれほど関与するのか
 emoji: 🧠
 type: idea
 topics: [claude, ai, agenticai, llm, thoughtanalyzer]
