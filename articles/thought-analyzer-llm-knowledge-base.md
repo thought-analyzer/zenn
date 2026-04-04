@@ -1,5 +1,5 @@
 ---
-title: LLM wiki ── 知識はLintingで磨ける、では人間の思考はどう評価するか
+title: "【AI技術論】LLM wiki ── 知識はLintingで磨ける、では人間の思考はどう評価するか"
 emoji: 🗂️
 type: idea
 topics: [claude, ai, obsidian, thoughtanalyzer, pkm]
