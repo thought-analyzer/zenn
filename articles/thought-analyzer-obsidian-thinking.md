@@ -1,5 +1,5 @@
 ---
-title: 知識は"使えて"初めて資産になる ── Obsidian論への応答
+title: Obsidian ── 知識は"使えて"初めて資産になる
 emoji: 📝
 type: idea
 topics: [claude, ai, obsidian, thoughtanalyzer, pkm]

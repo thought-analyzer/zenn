@@ -1,5 +1,5 @@
 ---
-title: 自律型AIでは、あなたの思考がどれほど関与するのか
+title: 自律型AI ── 任せるほど、人間の構想力が問われる
 emoji: 🧠
 type: idea
 topics: [claude, ai, agenticai, llm, thoughtanalyzer]

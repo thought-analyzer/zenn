@@ -1,5 +1,5 @@
 ---
-title: LLMが知識を書く時代に、人間の言葉だけを測る理由
+title: LLM wiki ── 知識はLintingで磨ける、では人間の思考はどう評価するか
 emoji: 🗂️
 type: idea
 topics: [claude, ai, obsidian, thoughtanalyzer, pkm]
