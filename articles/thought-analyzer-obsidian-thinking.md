@@ -1,5 +1,5 @@
 ---
-title: 「自分の言葉で書く」は本当に資産になるのか ── Obsidian論への応答とthought-analyzerの視点
+title: 知識は"使えて"初めて資産になる ── Obsidian論への応答
 emoji: 📝
 type: idea
 topics: [claude, ai, obsidian, thoughtanalyzer, pkm]
