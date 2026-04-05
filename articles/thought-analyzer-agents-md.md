@@ -3,7 +3,7 @@ title: "コンテキストファイルは、エージェントを賢くしない
 emoji: "📄"
 type: "tech"
 topics: ["AI", "claude", "claudecode", "エージェント", "CLAUDE"]
-published: true
+published: false
 ---
 
 :::message

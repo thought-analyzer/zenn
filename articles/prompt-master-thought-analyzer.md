@@ -3,7 +3,7 @@ title: "「プロンプトを最適化する」とは何か ── prompt-master
 emoji: "🔬"
 type: "idea"
 topics: ["AI", "claude", "prompt", "claudecode", "思考"]
-published: true
+published: false
 ---
 
 :::message

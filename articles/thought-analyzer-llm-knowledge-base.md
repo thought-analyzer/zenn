@@ -3,7 +3,7 @@ title: "知識はLintingで磨ける。では人間の思考は？ ── LLM wi
 emoji: 🗂️
 type: idea
 topics: [claude, ai, obsidian, thoughtanalyzer, pkm]
-published: true
+published: false
 ---
 
 先日、こんな投稿を読んだ。
