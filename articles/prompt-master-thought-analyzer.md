@@ -1,9 +1,9 @@
 ---
-title: "「プロンプトを最適化する」とは何か──prompt-masterを3層フレームワークで解剖する"
+title: "「プロンプトを最適化する」とは何か ── prompt-masterを解剖して見えたこと"
 emoji: "🔬"
 type: "idea"
 topics: ["AI", "claude", "prompt", "claudecode", "思考"]
-published: false
+published: true
 ---
 
 :::message

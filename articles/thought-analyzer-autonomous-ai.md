@@ -1,5 +1,5 @@
 ---
-title: "【AI技術論】自律型AI ── あなたの思考は、どれほど関与しているのか"
+title: "自律型AIに任せるほど、あなたの思考が問われる"
 emoji: 🧠
 type: idea
 topics: [claude, ai, agenticai, llm, thoughtanalyzer]

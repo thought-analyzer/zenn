@@ -1,9 +1,9 @@
 ---
-title: "【AI技術論】LLM wiki ── 知識はLintingで磨ける、では人間の思考はどう評価するか"
+title: "知識はLintingで磨ける。では人間の思考は？ ── LLM wikiから考える"
 emoji: 🗂️
 type: idea
 topics: [claude, ai, obsidian, thoughtanalyzer, pkm]
-published: false
+published: true
 ---
 
 先日、こんな投稿を読んだ。
@@ -119,4 +119,4 @@ AIが生成したコンテンツと人間の思考を混ぜた状態で分析す
 
 **← 自律型AIと構想力** [自律型AIでは、あなたの思考がどれほど関与するのか](https://zenn.dev/thought_analyzer/articles/thought-analyzer-autonomous-ai)：LLMに任せるほど問いの設計が唯一の変数になる
 
-**skill本体 →** [thought-analyzer](https://github.com/thought-analyzer/thought-analyzer/blob/main/skills/skill.md?plain=1)：Claude.aiで実際に分析を実行する
+**skill本体 →** [thought-analyzer](https://github.com/thought-analyzer/thought-analyzer/blob/main/skills/skill.md?plain=1)：Claude Codeで実際に分析を実行する
