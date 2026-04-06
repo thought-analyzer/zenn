@@ -37,6 +37,30 @@ thought-analyzerの分析結果には、9軸のスコアとは別に「設計者
 | 7 | **CONDUCTOR（指揮者型）** | `problem_style = delegate` |
 | 8 | **NAVIGATOR（航行者型）** | 上記いずれにも該当しない |
 
+![ARCHITECT](/images/persona-ARCHITECT.png)
+*ARCHITECT（設計者型）*
+
+![ANALYST](/images/persona-ANALYST.png)
+*ANALYST（解析者型）*
+
+![BRIDGER](/images/persona-BRIDGER.png)
+*BRIDGER（橋渡し型）*
+
+![EXPLORER](/images/persona-EXPLORER.png)
+*EXPLORER（探索者型）*
+
+![PIONEER](/images/persona-PIONEER.png)
+*PIONEER（開拓者型）*
+
+![ENGINEER](/images/persona-ENGINEER.png)
+*ENGINEER（工学者型）*
+
+![CONDUCTOR](/images/persona-CONDUCTOR.png)
+*CONDUCTOR（指揮者型）*
+
+![NAVIGATOR](/images/persona-NAVIGATOR.png)
+*NAVIGATOR（航行者型）*
+
 ---
 
 ## 設計上の判断を3点説明する
