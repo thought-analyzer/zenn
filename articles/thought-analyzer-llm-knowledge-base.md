@@ -6,7 +6,7 @@ topics: [claude, ai, obsidian, thoughtanalyzer, pkm]
 published: false
 ---
 
-先日、こんな投稿を読んだ。
+先日、こんな投稿を読んだ。Andrej Karpathy（OpenAI創業メンバー、元Tesla AI責任者）が自身のワークフローを公開したものだ。
 
 ---
 
@@ -21,8 +21,12 @@ published: false
 > Linting: I've run some LLM "health checks" over the wiki to find inconsistent data, impute missing data, find interesting connections for new article candidates.
 >
 > TLDR: raw data is collected, then compiled by an LLM into a .md wiki, then operated on by various CLIs by the LLM to do Q&A and to incrementally enhance the wiki, and all of it viewable in Obsidian.
+>
+> — [Andrej Karpathy @karpathy](https://x.com/karpathy/status/2039805659525644595)
 
 ---
+
+注目すべき点がある。Karpathyのワークフローでは、`raw/` への取り込みはObsidian Web Clipperを使った**人間の手作業**だ。「何を収集するか」の選択はKarpathy自身が行い、wikiの「コンパイル・記事生成・リンク維持」だけをLLMが担う。つまり**収集＝人間、整理・執筆＝LLM**という分業だ。この設計の意味は、sabakichiさんのコメントで鮮明になる。
 
 この投稿も興味深いが、私が注目したのはそれに対してついたコメントだ。知覚表現研究に携わるsabakichi（@knshtyk）さんの一言が、構造の核心を突いていた。
 
@@ -62,11 +66,13 @@ wiki/
 
 両者は根本的に異なる。
 
-LLMが書くwikiは、整合性・網羅性・構造の一貫性が高い。索引も自動で維持される。人間が直接触ることはほとんどない。しかしLLMは構造上、統計的に平均的な知識を生成する装置だ。問いの角度が曖昧であれば、それに収束した出力が積み上がっていく。
+LLMが書くwikiは、整合性・網羅性・構造の一貫性が高い。索引も自動で維持される。人間が直接触ることはほとんどない。しかしLLMの出力は、入力ソースの質と問いの角度に強く依存する。問いの角度が曖昧であれば、平均的な出力に収束する傾向がある。Karpathyさんの設計では収集を人間が担うため、キュレーションの段階で「何を取り込むか」という角度が介在する。この人間の選択が、wikiの独自性を部分的に保つ。
 
 人間が書いたノートには盲点がある。偏りがある。しかしその盲点と偏りの中に、**その人固有の問いの角度**が宿っている。ある概念を別の領域に結びつける独自の視点、習慣的に問い直す問いの構造——これはLLMには書けない。
 
 **LLMが書くwikiは、誰が書いても似たものになる。人間が書いたノートは、その人にしか書けない。**
+
+ただし、AKMの設計はいまも進化している。Hermes Agentのように収集・整理の両方をAIが担う実装も登場しており、「収集＝人間」という前提が崩れつつある。AIが収集も担う設計では、何を取り込むかの基準そのものが人間のキュレーションで固定されないため、平均化の傾向がより強く働く可能性がある。「収集と整理をどこで分けるか」という問いは、AKM全体の設計思想として今後も問われ続けるだろう。
 
 ## 3層の分離という発想
 
